@@ -1,0 +1,22 @@
+Git Lab March 5, 2013
+=====Introduction to Git And GitHub=====
+Prerequisites
+* Please sign up a GitHub account & finish Hello World yourself
+  - https://github.com/
+* Remember to bring a wireless laptop
+* git (either on workstation or your laptop)
+  - Windows: https://msysgit.googlecode.com/files/Git-1.8.1.2-preview20130201.exe
+  - Linux(Fedora): $ yum install git-core
+  - Linux(Debian): $ apt-get install git
+  - Mac OS X: http://code.google.com/p/git-osx-installer
+
+Optional(but recommended)
+* Set your SSH Keys at GitHub
+  - https://github.com/settings/ssh
+  - tutorial: https://help.github.com/articles/generating-ssh-keys
+* Set your username & email
+  - $ git config --global user.name USERNAME
+  - $ git config --gloabl user.email EMAIL
+
+
+2013/02/27 version 3
