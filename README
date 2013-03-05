@@ -9,13 +9,4 @@ Prerequisites
   - Linux(Debian): $ apt-get install git
   - Mac OS X: http://code.google.com/p/git-osx-installer
 
-Optional(but recommended)
-* Set your SSH Keys at GitHub
-  - https://github.com/settings/ssh
-  - tutorial: https://help.github.com/articles/generating-ssh-keys
-* Set your username & email
-  - $ git config --global user.name USERNAME
-  - $ git config --gloabl user.email EMAIL
-
-
 2013/02/27 version 3
